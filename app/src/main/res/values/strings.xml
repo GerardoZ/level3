@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Level3</string>
+    <string name="domain">http://192.168.1.37/</string>
+</resources>
